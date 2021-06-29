@@ -1,3 +1,115 @@
+/*
+********** Body Style **********
+ */
+
 body {
-    background-color: pink;
+  background-color: lightblue;
+  font-size: 20px;
+  margin: 0;
+}
+
+/*
+********** Header Style **********
+ */
+
+header {
+  color: white;
+  background-color: darkorange;
+  padding: 30px;
+}
+
+/*
+********** Image (Profile-photo) Style **********
+ */
+
+img {
+  border: solid 5px #fff;
+  border-radius: 30px;
+  width: 150px;
+}
+
+/*
+********** Navigation Menu Style **********
+ */
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  width: 150px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: darkorange;
+  padding: 10px 20px;
+  margin: 10px;
+  text-align: left;
+  list-style-type: none;
+}
+
+.menu li a {
+  color: white;
+  text-decoration: none;
+}
+
+/*
+********** Main Content (My Goals) Style **********
+ */
+
+ol {
+  margin-left: 20px;
+  background-color: lightslategrey;
+}
+
+ol li {
+  padding: 10px;
+  border-bottom: solid 1px lightcoral;
+}
+
+/*
+********** Table Style **********
+ */
+
+table {
+  margin-left: 20px;
+}
+
+td {
+  padding: 20px;
+}
+
+tr th {
+  background-color: deepskyblue;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.odd {
+  background-color: lightgrey;
+}
+
+tr td:first-child {
+  font-weight: bold;
+}
+
+table a {
+  text-decoration: none;
+  color: darkorange;
+  padding: 10px;
+  background-color: darkslategray;
+}
+
+/*
+********** Footer Style **********
+ */
+
+footer {
+  background-color: darkcyan;
+  color: white;
+  text-align: center;
+  border: solid 10px darkorange;
+  padding: 20px;
+  margin: 20px;
 }

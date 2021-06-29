@@ -8,13 +8,13 @@ From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
 
 Preview: https://pirci.github.io/beyond-the-basics/
 
-<img width="1679" alt="Screenshot 2021-06-26 at 17 57 52" src="https://user-images.githubusercontent.com/43238947/123518998-f351b480-d6a8-11eb-89e5-474487ffed2f.png">
+<img width="1679" alt="Beyond the Basics website mainpage" src="/img/screencapture-pirci-github-io-beyond-the-basics-2021-06-29-18_01_05.png">
 
 ## What I Learned:
 
-- Adding a class attribute (.last) to the HTML element learned and applied
-- Percentage value (width) was used to create a responsive page
-- HTML (button) element learned and applied
+- Table element implement and style for best visibility.
+- Semantic Elements in HTML used (header, footler)
+- CSS selectors used (:first-child)
 
 ## Possible Improvements
 

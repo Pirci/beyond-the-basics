@@ -8,7 +8,7 @@ From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
 
 Preview: https://pirci.github.io/beyond-the-basics/
 
-<img width="1679" alt="Beyond the Basics website mainpage" src="/img/screencapture-pirci-github-io-beyond-the-basics-2021-06-29-18_01_05.png">
+<img target="_blank" width="1679" alt="Beyond the Basics website mainpage" src="/img/screencapture-pirci-github-io-beyond-the-basics-2021-06-29-18_01_05.png">
 
 ## What I Learned:
 

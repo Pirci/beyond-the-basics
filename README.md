@@ -1,6 +1,6 @@
 ### Seytech Fullstack Software Developer Bootcamp
 
-> HTML & CSS first #3 Homework Project (Beyond the Basics).
+> HTML & CSS #3rd Homework Project (Beyond the Basics).
 
 From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
 

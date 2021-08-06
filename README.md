@@ -1,9 +1,6 @@
-### Seytech Fullstack Software Developer Bootcamp
+### Beyond the Basics
 
-> HTML & CSS #3rd Homework Project (Beyond the Basics).
-
-From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
-
+> HTML & CSS Beyond the Basics Project.
 ## Live Demo
 
 Preview: https://pirci.github.io/beyond-the-basics/
